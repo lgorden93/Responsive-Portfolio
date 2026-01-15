@@ -7,7 +7,10 @@ My first responsive portfolio built with HTML and CSS.
 - Clean layout
 - Mobile-friendly design
 
-## Next Improvements
-- Add additional pages/sections
-- JavaScript interactivity
-- Accessibility improvements
+## What I Practiced
+- Semantic HTML
+- Layout Patterns
+- Responsive Breakpoints
+
+## Notes
+Built as a learning project inspired by tutorials and adapted independently.
